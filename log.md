@@ -3,10 +3,11 @@ The daily log of my **#301DaysOfCode** challenge.
 
 ## Log
 
-### Day 1: [Date]
+### Day 1: [3/30/2019]
 
 **Today's Progress:**
-
+Learned how to fork a repository, set up a repository via command line, commit and submit pull requests
 **Thoughts:**
-
+Things have changed a little since 1991-1994 =P
 **Link to work:**
+Work? no, this is me-time.
