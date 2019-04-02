@@ -17,3 +17,11 @@ Installed Jupyter and Sublime Text. wrote hello world programs. Progressing thro
 **Thoughts:**
 **Link to work:**
 This will help pentesting-type work
+
+### Day 3: [4/01/2019]
+**Today's Progress:**
+Set up intro to github repository.
+**Thoughts:**
+So many moving shiny objects
+**Link to work:**
+github learning path includes securing repos and will give me a better understanding of code repositories for my code.
