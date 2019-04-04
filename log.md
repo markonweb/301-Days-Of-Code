@@ -25,3 +25,11 @@ Set up intro to github repository.
 So many moving shiny objects
 **Link to work:**
 github learning path includes securing repos and will give me a better understanding of code repositories for my code.
+
+### Day 4: [4/03/2019]
+**Today's Progress:**
+some more git. python data types
+**Thoughts:**
+list, dict, tup, and set are interesting data types.
+**Link to work:**
+Coding, coding, coding.
