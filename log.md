@@ -33,3 +33,10 @@ some more git. python data types
 list, dict, tup, and set are interesting data types.
 **Link to work:**
 Coding, coding, coding.
+
+### Day 5: [4/04/2019]
+**Today's Progress:**
+variable assignments, strings
+**Thoughts:**
+**Link to work:**
+
